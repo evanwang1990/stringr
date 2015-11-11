@@ -6,7 +6,7 @@
 #' @param ... See details
 #' @return A string or a string vector
 #'
-#' @reference \url{https://docs.python.org/3/library/stdtypes.html#str.format}
+#' @references  \url{https://docs.python.org/3/library/stdtypes.html#str.format}
 #' \url{https://github.com/nicolewhite/pystr/blob/master/R/pystr_format.R}
 #'
 #' @examples
